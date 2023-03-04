@@ -1,0 +1,6 @@
+arr=[2,28,2,6,25]
+sum=0
+for i in range(2,0,2):
+    sum=sum+arr[i]
+print(sum)
+    
